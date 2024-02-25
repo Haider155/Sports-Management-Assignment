@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    /* Optional: Set a background color */
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    /* This centers the container horizontally */
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    /* Set your desired text color */
+}
